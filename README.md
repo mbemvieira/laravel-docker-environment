@@ -1,2 +1,2 @@
 # laravel-docker-environment
-Docker container with all tools for a Laravel project
+Docker container with lots of tools for a Laravel dev/test project
